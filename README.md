@@ -52,7 +52,7 @@ pip install qiskit scipy numpy
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/variational-quantum-classifier.git
+git clone https://github.com/davitacols/variational-quantum-classifier.git
 cd variational-quantum-classifier
 ```
 
