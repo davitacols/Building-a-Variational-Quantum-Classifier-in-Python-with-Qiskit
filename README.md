@@ -125,8 +125,5 @@ Predicted Labels: [0, 1, 0]
 Add a visualization to show decision boundaries or loss convergence during training.
 
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
 If you have any questions, suggestions, or issues, feel free to raise an issue or submit a pull request. 🚀
